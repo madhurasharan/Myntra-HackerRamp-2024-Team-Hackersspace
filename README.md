@@ -26,3 +26,4 @@ This is a Virtual Try-On application using Python, OpenCV, MediaPipe, and Tkinte
 
 ```sh
 pip install opencv-python mediapipe pillow numpy
+
